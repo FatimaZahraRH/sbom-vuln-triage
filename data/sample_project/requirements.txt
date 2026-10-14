@@ -1,0 +1,13 @@
+# Exemple d'application web Python -- projet fictif à scanner pour la démonstration.
+flask==2.0.1
+jinja2==2.11.3
+requests==2.25.1
+pyyaml==5.3.1
+django==3.2.0
+urllib3==1.26.4
+cryptography==3.3.2
+pillow==8.1.2
+numpy==1.24.0
+pandas==2.1.0
+fastapi==0.95.0
+sqlalchemy==2.0.20

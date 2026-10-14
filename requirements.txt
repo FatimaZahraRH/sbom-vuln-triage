@@ -1,0 +1,5 @@
+plotly>=5.20.0
+pytest>=8.0.0
+
+# --- Optionnel : mode "live" des clients EPSS/KEV (non utilisé par défaut) ---
+requests>=2.32.0

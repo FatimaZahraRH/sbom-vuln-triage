@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+sbom.json
+dashboard.html
+rapport_cra.md
+.venv/
+venv/
+data/vulnerability_db.json
